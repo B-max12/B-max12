@@ -1,16 +1,121 @@
-## Hi there 👋
+# 👋 Hi, I'm Awab Ur Rehman 
 
-<!--
-**B-max12/B-max12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">  
+  <a href="https://github.com/B-max12 ">
+    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="300">
+  </a>
+</p>  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👥 Profile Views  
+
+<p align="center">
+  <img alt="count" src="https://count.getloli.com/get/@:B-max12?theme=original-new">
+</p>
+
+---
+
+## 📌 About Me  
+- 🎓 SE student, passionate about **Coding** & **automation**  
+- 🔭 Currently working on [Optimus Prime an ai operating system:https://github.com/B-max12/Optimus_prime2.git]  
+- 🌱 Learning **Web Development & frontend Development**  
+- 🤝 Open to collaborate on **Open Source Projects**  
+- 💬 Ask me about **AI Bots, Automation, and Coding Basics**  
+- 📍 Based in **Lahore, Punjab, Pakistan**  
+- 📫 Reach me: **awabbhammad8@gmail.com**  
+
+---
+
+## 🛠️ Skills & Tools  
+
+**Programming Languages:**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+
+**Web Development:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+**Cloud & Hosting:**  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  
+
+**Databases & Backend:**  
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**Design & Productivity:**  
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.youtube.com/@optimusprime-w1z/shorts"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="http://Wa.me/923265212425"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://facebook.com/Awabhammad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/awab.hammad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/awabhammad"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://linkedin.com/in/AwabHammad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com//@optimusprime-w1z/opofficial/output/github-contribution-grid-snake-dark.svg" alt="Animation"/>
+</p>
+
+## 📊 GitHub Stats  
+
+
+
+
+---
+
+<details>
+  <summary>🏆 <b>GitHub Awards</b></summary><br/>
+   <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmmikun"/>
+  </p>
+</details>  
+
+---
+
+## 💡 Fun Fact  
+> "Everyone thinks I’m a professional programmer… but honestly, I’m just a student still learning every day!" 😄  
+
+---
+
+### ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=001C6C&border_color=001C6C&theme=dark"/>
+</p>  
+
+### 🔝 Top Contributed Repo  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=https://github.com/B-max12/Optimus_prime2.git"/>
+</p>  
+
+---
+
+## ☕ Support My Work  
+If you like my projects or bots, consider supporting me:  
+
+<p align="center">
+  <a href="https://buymeacoffee.com/B-max12"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+  <a href="https://patreon.com/B-max12"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+</p>  
