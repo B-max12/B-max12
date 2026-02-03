@@ -1,121 +1,149 @@
-# 👋 Hi, I'm Awab Ur Rehman 
+<div align="center">
 
-<p align="center">  
-  <a href="https://github.com/B-max12 ">
-    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="300">
-  </a>
-</p>  
+<!-- Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20B-max12%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
 
----
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Universe+🌌;Full+Stack+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%A7%A9;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-## 👥 Profile Views  
+<br>
 
-<p align="center">
-  <img alt="count" src="https://count.getloli.com/get/@:B-max12?theme=original-new">
-</p>
+<!-- Social Badges -->
+<a href="https://github.com/B-max12">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
 
----
+<br><br>
 
-## 📌 About Me  
-- 🎓 SE student, passionate about **Coding** & **automation**  
-- 🔭 Currently working on [Optimus Prime an ai operating system:https://github.com/B-max12/Optimus_prime2.git]  
-- 🌱 Learning **Web Development & frontend Development**  
-- 🤝 Open to collaborate on **Open Source Projects**  
-- 💬 Ask me about **AI Bots, Automation, and Coding Basics**  
-- 📍 Based in **Lahore, Punjab, Pakistan**  
-- 📫 Reach me: **awabbhammad8@gmail.com**  
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=B-max12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
----
-
-## 🛠️ Skills & Tools  
-
-**Programming Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-
-**Web Development:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
-**Cloud & Hosting:**  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  
-
-**Databases & Backend:**  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Design & Productivity:**  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://www.youtube.com/@optimusprime-w1z/shorts"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="http://Wa.me/923265212425"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://facebook.com/Awabhammad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/awab.hammad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/awabhammad"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://linkedin.com/in/AwabHammad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>  
+```javascript
+const bMax12 = {
+    pronouns: "He" | "Him",
+    location: "🌍 Somewhere on Earth",
+    currentFocus: "Building cool stuff that matters",
+    funFact: "I debug with console.log and I'm proud of it! 😄",
+    
+    dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"],
+    
+    lifePhilosophy: "Code is poetry written for machines to execute and humans to admire ✨"
+};
+```
+
+<br>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=B-max12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B-max12&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=B-max12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/B-max12/B-max12/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   💬 Got a cool project idea? Let's collaborate!                  ║
+║   📫 Reach out and let's build something amazing together         ║
+║   ⭐ Don't forget to star repos you find interesting!             ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com//@optimusprime-w1z/opofficial/output/github-contribution-grid-snake-dark.svg" alt="Animation"/>
-</p>
+<div align="center">
+  
+### 💖 Thanks for visiting!
 
-## 📊 GitHub Stats  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-
-
-
----
-
-<details>
-  <summary>🏆 <b>GitHub Awards</b></summary><br/>
-   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmmikun"/>
-  </p>
-</details>  
-
----
-
-## 💡 Fun Fact  
-> "Everyone thinks I’m a professional programmer… but honestly, I’m just a student still learning every day!" 😄  
-
----
-
-### ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=001C6C&border_color=001C6C&theme=dark"/>
-</p>  
-
-### 🔝 Top Contributed Repo  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=https://github.com/B-max12/Optimus_prime2.git"/>
-</p>  
-
----
-
-## ☕ Support My Work  
-If you like my projects or bots, consider supporting me:  
-
-<p align="center">
-  <a href="https://buymeacoffee.com/B-max12"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-  <a href="https://patreon.com/B-max12"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-</p>  
+</div>
