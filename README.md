@@ -8,7 +8,12 @@
 
 <br>
 
-<!-- Social Badges - WORKING -->
+<!-- Animated Wave -->
+<img width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Hi there"/>
+
+<br>
+
+<!-- Social Badges with Hover Animation -->
 <a href="https://github.com/B-max12">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -16,18 +21,23 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:awabbhammad8@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://awab.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<!-- Profile Stats - ALL WORKING BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=B-max12&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/B-max12?label=Followers&style=for-the-badge&color=blue&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/B-max12?affiliations=OWNER&style=for-the-badge&color=yellow&logo=github)
+<!-- Animated Profile Views & Followers Counter -->
+<img src="https://komarev.com/ghpvc/?username=B-max12&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/B-max12?label=🤝%20Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/B-max12?label=⭐%20Stars&style=for-the-badge&color=yellow&labelColor=black" alt="Stars"/>
+
+<br>
+
+<!-- Animated Visitor Badge -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=B-max12.B-max12&left_color=royalblue&right_color=black" alt="visitors"/>
 
 <br>
 
@@ -40,7 +50,7 @@
 
 ## 🚀 About Me
 
-img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const awabHammad = {
@@ -70,57 +80,24 @@ const awabHammad = {
 <div align="center">
 
 ### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,rust,ruby,java,html,css&theme=dark" />
+</p>
 
 ### 🚀 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,svelte,tailwind,bootstrap,sass,redux,graphql&theme=dark" />
+</p>
 
 ### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark" />
+</p>
 
 ### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,azure,linux,vscode,vim,figma,postman&theme=dark" />
+</p>
 
 </div>
 
@@ -258,28 +235,23 @@ const awabHammad = {
 <br>
 
 <div align="center">
-</div>
 
-<br>
-
-<div align="center">
-
-<!-- GitHub Streak - Using shields.io alternative -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=B-max12&theme=tokyonight_duo&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<!-- GitHub Streak - Using working mirror -->
+<a href="https://github.com/B-max12">
+  <img src="https://github-readme-streak-stats-nine-azure.vercel.app/?user=B-max12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</a>
 
 </div>
-
-<p align="center">
- <b>Note:</b> If streak stats don't load, it means the service is temporarily down. Your contributions are still tracked!
-</p>
 
 <br>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=B-max12&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+  
+<a href="https://github.com/B-max12">
+  <img src="https://github-profile-trophy.vercel.app/?username=B-max12&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -292,7 +264,9 @@ const awabHammad = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=B-max12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)
+<a href="https://github.com/B-max12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B-max12&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -302,10 +276,14 @@ const awabHammad = {
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 👯 Collaborate | 💬 Ask Me About |
-|--------------|-------------|----------------|-----------------|
-| OS Interfaces | AI/ML Integration | Open Source | Full Stack Dev |
-| Bioinformatics | System Design | Web Apps | OS Design |
+```
+🔭 Currently working on: Operating System Interfaces & Bioinformatics Platform
+🌱 Learning: Advanced System Design, AI/ML Integration
+👯 Looking to collaborate on: Open Source Projects
+💬 Ask me about: Full Stack Development, OS Design, Web Technologies
+📫 Reach me at: awabbhammad8@gmail.com
+⚡ Fun fact: I can spend hours perfecting a single animation!
+```
 
 </div>
 
@@ -315,7 +293,9 @@ const awabHammad = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://github.com/B-max12">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</a>
 
 </div>
 
@@ -328,15 +308,23 @@ const awabHammad = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awabbhammad8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awab-hammad-128aa4300)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B-max12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awab.lovable.app)
+<a href="mailto:awabbhammad8@gmail.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.linkedin.com/in/awab-hammad-128aa4300">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845571f1d.png"/>
+</a>
+<a href="https://github.com/B-max12">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+<a href="https://awab.lovable.app">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4571-9c73-0f5053c0ce6a.png"/>
+</a>
 
 <br><br>
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════��═══════════════════════════════════╗
 ║                                                                               ║
 ║   💬 Got a cool project idea? Let's collaborate!                              ║
 ║   📫 Email: awabbhammad8@gmail.com                                            ║
@@ -355,7 +343,11 @@ const awabHammad = {
   
 ### 💖 Thanks for visiting my profile!
 
+<!-- Animated Footer -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<!-- Snake Animation (Works with GitHub Actions) -->
+<!-- To enable: Create .github/workflows/snake.yml in your profile repo -->
 
 </div>
 
