@@ -4,11 +4,16 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20B-max12%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Universe+🌌;Full+Stack+Developer+💻;Creative+Problem+Solver+🧩;Open+Source+Enthusiast+✨;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Universe+🌌;Full+Stack+Developer+💻;OS+Interface+Designer+🖥️;Creative+Problem+Solver+🧩;Open+Source+Enthusiast+✨;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
 
 <br>
 
-<!-- Social Badges -->
+<!-- Animated Wave -->
+<img width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Hi there"/>
+
+<br>
+
+<!-- Social Badges with Hover Animation -->
 <a href="https://github.com/B-max12">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -24,9 +29,20 @@
 
 <br><br>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=B-max12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/B-max12?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+<!-- Animated Profile Views & Followers Counter -->
+<img src="https://komarev.com/ghpvc/?username=B-max12&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/B-max12?label=🤝%20Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/B-max12?label=⭐%20Stars&style=for-the-badge&color=yellow&labelColor=black" alt="Stars"/>
+
+<br>
+
+<!-- Animated Visitor Badge -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=B-max12.B-max12&left_color=royalblue&right_color=black" alt="visitors"/>
+
+<br>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -34,19 +50,28 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ```javascript
 const awabHammad = {
     username: "B-max12",
     pronouns: "He" | "Him",
     location: "🌍 Planet Earth",
-    currentFocus: "Building innovative OS interfaces & web applications",
+    currentFocus: "Building innovative OS interfaces & web apps",
     funFact: "I debug with console.log and I'm proud of it! 😄",
     
     dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"],
     
-    lifePhilosophy: "Code is poetry written for machines to execute and humans to admire ✨"
+    skills: ["Full Stack Dev", "OS Design", "Bioinformatics"],
+    
+    lifePhilosophy: "Code is poetry written for machines ✨"
 };
 ```
+
+<br clear="both">
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -55,33 +80,29 @@ const awabHammad = {
 <div align="center">
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,rust,ruby,java,html,css&theme=dark" />
+</p>
 
 ### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,svelte,tailwind,bootstrap,sass,redux,graphql&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark" />
+</p>
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,azure,linux,vscode,vim,figma,postman&theme=dark" />
+</p>
 
 </div>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -89,42 +110,137 @@ const awabHammad = {
 
 <div align="center">
 
-| Project | Description | Link |
-|---------|-------------|------|
-| 🧬 **Human Genome Connect** | Genomics & Bioinformatics Platform | [🔗 Visit](https://human-genome-connect.lovable.app/) |
-| 👶 **Kidora** | Kids-Focused Application | [🔗 Visit](https://kidora.lovable.app) |
-| 🦅 **Blue Falcon OS** | Custom Operating System Interface | [🔗 Visit](https://blue-falcon-os.lovable.app/) |
-| 💼 **Digital Portfolio** | Personal Portfolio Showcase | [🔗 Visit](https://awabs-digital-portfolio-088fcb24.base44.app) |
-| ⚡ **Prime Core OS** | Advanced OS Interface | [🔗 Visit](https://prime-core-os.lovable.app) |
-| 🤖 **Optimus Prime OS** | Futuristic Operating System | [🔗 Visit](https://optimus-prime-os-24963edc.base44.app) |
+<table>
+<tr>
+<td width="50%">
+
+### 🧬 Human Genome Connect
+<p align="center">
+  <a href="https://human-genome-connect.lovable.app/">
+    <img src="https://img.shields.io/badge/🧬_Genomics_Platform-Visit-00D4AA?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🔄_Ongoing-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Bioinformatics-blue?style=flat-square" />
+</p>
+<p align="center">Advanced Genomics & Bioinformatics Platform for genetic research and analysis.</p>
+
+</td>
+<td width="50%">
+
+### 🦅 Blue Falcon OS
+<p align="center">
+  <a href="https://blue-falcon-os.lovable.app/">
+    <img src="https://img.shields.io/badge/🦅_Blue_Falcon_OS-Visit-1E90FF?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🔄_Ongoing-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
+</p>
+<p align="center">Custom Operating System Interface with modern UI/UX design.</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Prime Core OS
+<p align="center">
+  <a href="https://prime-core-os.lovable.app">
+    <img src="https://img.shields.io/badge/⚡_Prime_Core_OS-Visit-FF6B6B?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
+</p>
+<p align="center">Advanced OS Interface with cutting-edge features and performance.</p>
+
+</td>
+<td width="50%">
+
+### 🤖 Optimus Prime OS
+<p align="center">
+  <a href="https://optimus-prime-os-24963edc.base44.app">
+    <img src="https://img.shields.io/badge/����_Optimus_Prime_OS-Visit-FFD700?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
+</p>
+<p align="center">Futuristic Operating System with AI-powered interface.</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👶 Kidora
+<p align="center">
+  <a href="https://kidora.lovable.app">
+    <img src="https://img.shields.io/badge/👶_Kidora-Visit-FF69B4?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🚀_Live-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Kids_App-pink?style=flat-square" />
+</p>
+<p align="center">Kid-friendly educational application with interactive features.</p>
+
+</td>
+<td width="50%">
+
+### 💼 Digital Portfolio
+<p align="center">
+  <a href="https://awabs-digital-portfolio-088fcb24.base44.app">
+    <img src="https://img.shields.io/badge/💼_Portfolio-Visit-9B59B6?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🚀_Live-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Portfolio-orange?style=flat-square" />
+</p>
+<p align="center">Personal portfolio showcasing my work and achievements.</p>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=B-max12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=B-max12&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B-max12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=10&theme=default" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-  </picture>
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/B-max12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=B-max12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/B-max12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</a>
+
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=B-max12&theme=tokyonight&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=B-max12&theme=default" />
-    <img src="https://streak-stats.demolab.com?user=B-max12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </picture>
+
+<!-- GitHub Streak - Using working mirror -->
+<a href="https://github.com/B-max12">
+  <img src="https://github-readme-streak-stats-nine-azure.vercel.app/?user=B-max12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 <br>
@@ -132,23 +248,43 @@ const awabHammad = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=B-max12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=B-max12&theme=flat&no-frame=true&margin-w=4&row=1&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=B-max12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
-  </picture>
+  
+<a href="https://github.com/B-max12">
+  <img src="https://github-profile-trophy.vercel.app/?username=B-max12&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</a>
+
 </div>
 
 <br>
 
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=B-max12&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=B-max12&theme=minimal" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=B-max12&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-  </picture>
+
+<a href="https://github.com/B-max12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B-max12&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+<br>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```
+🔭 Currently working on: Operating System Interfaces & Bioinformatics Platform
+🌱 Learning: Advanced System Design, AI/ML Integration
+👯 Looking to collaborate on: Open Source Projects
+💬 Ask me about: Full Stack Development, OS Design, Web Technologies
+📫 Reach me at: awabbhammad8@gmail.com
+⚡ Fun fact: I can spend hours perfecting a single animation!
+```
+
 </div>
 
 <br>
@@ -156,21 +292,39 @@ const awabHammad = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-  </picture>
+
+<a href="https://github.com/B-max12">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</a>
+
 </div>
 
 <br>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
+<a href="mailto:awabbhammad8@gmail.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.linkedin.com/in/awab-hammad-128aa4300">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845571f1d.png"/>
+</a>
+<a href="https://github.com/B-max12">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+<a href="https://awab.lovable.app">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4571-9c73-0f5053c0ce6a.png"/>
+</a>
+
+<br><br>
+
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════��═══════════════════════════════════╗
 ║                                                                               ║
 ║   💬 Got a cool project idea? Let's collaborate!                              ║
 ║   📫 Email: awabbhammad8@gmail.com                                            ║
@@ -189,6 +343,13 @@ const awabHammad = {
   
 ### 💖 Thanks for visiting my profile!
 
+<!-- Animated Footer -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
+<!-- Snake Animation (Works with GitHub Actions) -->
+<!-- To enable: Create .github/workflows/snake.yml in your profile repo -->
+
 </div>
+
+<!-- Final wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
