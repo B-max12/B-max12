@@ -40,7 +40,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444e574c63444e6655512b56506f376f756e674a697a6e456251734c4868694e624d584f5441496e6161304a53617958675a536864614a5455444f4f4a576f68566e4b6a55577a33733461456e736e68476f67326352314a6a4e773857694e5a576e614c5a6e5a502b524e53366b6b4d33424e6b396e6b786f38635a32725a746f746f6665374c7638754e7a466f413246515a776d786d593257714633514f555044366c3536595a334c6934596d6f3944665a71536b55624e55545a3650443970554a54627475574845396132673731532f34363362346237632d666337612d343338392d616236652d3166333237623232386535622e676966">
+img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const awabHammad = {
@@ -140,12 +140,12 @@ const awabHammad = {
 ### 🧬 Human Genome Connect
 <p align="center">
   <a href="https://human-genome-connect.lovable.app/">
-    <img src="https://img.shields.io/badge/🧬_Genomics_Platform-Visit_Site-00D4AA?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🧬_Genomics_Platform-Visit-00D4AA?style=for-the-badge" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🔄_ONGOING-orange?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Type-Bioinformatics-blue?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Status-🔄_Ongoing-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Bioinformatics-blue?style=flat-square" />
 </p>
 <p align="center">Advanced Genomics & Bioinformatics Platform for genetic research and analysis.</p>
 
@@ -155,12 +155,12 @@ const awabHammad = {
 ### 🦅 Blue Falcon OS
 <p align="center">
   <a href="https://blue-falcon-os.lovable.app/">
-    <img src="https://img.shields.io/badge/🦅_Blue_Falcon_OS-Visit_Site-1E90FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🦅_Blue_Falcon_OS-Visit-1E90FF?style=for-the-badge" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🔄_ONGOING-orange?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Status-🔄_Ongoing-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
 </p>
 <p align="center">Custom Operating System Interface with modern UI/UX design.</p>
 
@@ -173,12 +173,12 @@ const awabHammad = {
 ### ⚡ Prime Core OS
 <p align="center">
   <a href="https://prime-core-os.lovable.app">
-    <img src="https://img.shields.io/badge/⚡_Prime_Core_OS-Visit_Site-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚡_Prime_Core_OS-Visit-FF6B6B?style=for-the-badge" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-✅_COMPLETED-brightgreen?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
 </p>
 <p align="center">Advanced OS Interface with cutting-edge features and performance.</p>
 
@@ -188,12 +188,12 @@ const awabHammad = {
 ### 🤖 Optimus Prime OS
 <p align="center">
   <a href="https://optimus-prime-os-24963edc.base44.app">
-    <img src="https://img.shields.io/badge/🤖_Optimus_Prime_OS-Visit_Site-FFD700?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/����_Optimus_Prime_OS-Visit-FFD700?style=for-the-badge" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-✅_COMPLETED-brightgreen?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
 </p>
 <p align="center">Futuristic Operating System with AI-powered interface.</p>
 
@@ -206,12 +206,12 @@ const awabHammad = {
 ### 👶 Kidora
 <p align="center">
   <a href="https://kidora.lovable.app">
-    <img src="https://img.shields.io/badge/👶_Kidora-Visit_Site-FF69B4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/👶_Kidora-Visit-FF69B4?style=for-the-badge" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🚀_LIVE-success?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Type-Kids_App-pink?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Status-🚀_Live-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Kids_App-pink?style=flat-square" />
 </p>
 <p align="center">Kid-friendly educational application with interactive features.</p>
 
@@ -221,12 +221,12 @@ const awabHammad = {
 ### 💼 Digital Portfolio
 <p align="center">
   <a href="https://awabs-digital-portfolio-088fcb24.base44.app">
-    <img src="https://img.shields.io/badge/💼_Portfolio-Visit_Site-9B59B6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼_Portfolio-Visit-9B59B6?style=for-the-badge" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🚀_LIVE-success?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Type-Portfolio-orange?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Status-🚀_Live-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Portfolio-orange?style=flat-square" />
 </p>
 <p align="center">Personal portfolio showcasing my work and achievements.</p>
 
@@ -245,9 +245,19 @@ const awabHammad = {
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=B-max12&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="B-max12 github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-max12&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+<!-- GitHub Stats Card -->
+<a href="https://github.com/B-max12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=B-max12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/B-max12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</a>
 
+</div>
+
+<br>
+
+<div align="center">
 </div>
 
 <br>
