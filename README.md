@@ -27,16 +27,7 @@
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br><br>
-
-<!-- Animated Profile Views & Followers Counter -->
-<img src="https://komarev.com/ghpvc/?username=B-max12&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/B-max12?label=🤝%20Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/B-max12?label=⭐%20Stars&style=for-the-badge&color=yellow&labelColor=black" alt="Stars"/>
-
 <br>
-
-
 
 ## 🚀 About Me
 
@@ -351,6 +342,16 @@ Supported languages:
 <!-- To enable: Create .github/workflows/snake.yml in your profile repo -->
 
 </div>
+<a href="https://github.com/alichtman">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/alichtman">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/alichtman">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
 <!-- Final wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
