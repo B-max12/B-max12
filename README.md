@@ -28,7 +28,13 @@
 </a>
 
 <br>
+## 👥 Profile Views  
 
+<p align="center">
+  <img alt="count" src="https://count.getloli.com/get/@:ahmmikun?theme=original-new">
+</p>
+
+---
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
