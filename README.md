@@ -351,17 +351,5 @@ Supported languages:
 <!-- Snake Animation (Works with GitHub Actions) -->
 <!-- To enable: Create .github/workflows/snake.yml in your profile repo -->
 
-</div>
-<a href="https://github.com/alichtman">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/alichtman">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/alichtman">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
 <!-- Final wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
