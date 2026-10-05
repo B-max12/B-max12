@@ -1,355 +1,329 @@
 <div align="center">
 
-<!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20B-max12%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F6FEB,100:A371F7&height=260&section=header&text=AWAB%20HAMMAD&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20don't%20just%20write%20code.%20I%20build%20systems%20that%20think,%20remember%20and%20verify.&descSize=18&descAlignY=60)
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Universe+🌌;Full+Stack+Developer+💻;OS+Interface+Designer+🖥️;Creative+Problem+Solver+🧩;Open+Source+Enthusiast+✨;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Rust+%E2%9A%99%EF%B8%8F+Flutter+%F0%9F%93%B1+Python+%F0%9F%90%8D+%E2%80%94+one+mind%2C+three+universes;Building+AI+agents+that+ship+verified+code+%F0%9F%A4%96;Local-first.+Private+by+design.+Zero+telemetry.+%F0%9F%94%92;Code+is+poetry+written+for+machines+%E2%9C%A8)](https://github.com/B-max12)
 
 <br>
 
-<!-- Animated Wave -->
-<img width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Hi there"/>
+<a href="https://github.com/B-max12"><img src="https://img.shields.io/badge/GitHub-B--max12-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/awab-hammad-128aa4300"><img src="https://img.shields.io/badge/LinkedIn-Awab_Hammad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:awabbhammad8@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://awab.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 
-<br>
+<br><br>
 
-<!-- Social Badges with Hover Animation -->
-<a href="https://github.com/B-max12">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/awab-hammad-128aa4300">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:awabbhammad8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://awab.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br>
-## 👥 Profile Views  
-
-<p align="center">
-  <img alt="count" src="https://count.getloli.com/get/@:ahmmikun?theme=original-new">
-</p>
-
----
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const awabHammad = {
-    username: "B-max12",
-    pronouns: "He" | "Him",
-    location: "🌍 Planet Earth",
-    currentFocus: "Building innovative OS interfaces & web apps",
-    funFact: "I debug with console.log and I'm proud of it! 😄",
-    
-    dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"],
-    
-    skills: ["Full Stack Dev", "OS Design", "Bioinformatics"],
-    
-    lifePhilosophy: "Code is poetry written for machines ✨"
-};
-```
-
-<br clear="both">
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,rust,ruby,java,html,css&theme=dark" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,svelte,tailwind,bootstrap,sass,redux,graphql&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,azure,linux,vscode,vim,figma,postman&theme=dark" />
-</p>
+<img src="https://count.getloli.com/get/@:B-max12?theme=original-new" alt="views"/>
 
 </div>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+## 🧬 `whoami`
 
-## 🌟 Featured Projects
+```rust
+struct Awab {
+    handle:     &'static str,   // "B-max12"
+    builds:     [&'static str; 3],
+    obsessions: Vec<&'static str>,
+    philosophy: &'static str,
+}
 
-<div align="center">
+const AWAB: Awab = Awab {
+    handle: "B-max12",
+    builds: ["Dear Diary", "AURELIS", "FORGEX"],
+    obsessions: vec!["local-first", "verification", "privacy by architecture", "details nobody notices"],
+    philosophy: "Code is poetry written for machines ✨",
+};
+```
+
+> **Three projects. Three different worlds.**
+> A diary that remembers you, a download manager that respects you, and an AI engineering team that checks its own work.
+
+---
+
+## 🚀 Flagship Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### 🧬 Human Genome Connect
-<p align="center">
-  <a href="https://human-genome-connect.lovable.app/">
-    <img src="https://img.shields.io/badge/🧬_Genomics_Platform-Visit-00D4AA?style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🔄_Ongoing-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Bioinformatics-blue?style=flat-square" />
-</p>
-<p align="center">Advanced Genomics & Bioinformatics Platform for genetic research and analysis.</p>
-
+<td align="center" width="33%">
+<h3>📖 Dear Diary</h3>
+<sub><b>Your Vintage Journal</b></sub><br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-RAG-A371F7?style=flat-square"/>
+<br><br>
+<a href="#-dear-diary">Jump to details ↓</a>
 </td>
-<td width="50%">
-
-### 🦅 Blue Falcon OS
-<p align="center">
-  <a href="https://blue-falcon-os.lovable.app/">
-    <img src="https://img.shields.io/badge/🦅_Blue_Falcon_OS-Visit-1E90FF?style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🔄_Ongoing-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
-</p>
-<p align="center">Custom Operating System Interface with modern UI/UX design.</p>
-
+<td align="center" width="33%">
+<h3>⬇️ AURELIS</h3>
+<sub><b>Downloads, refined.</b></sub><br><br>
+<img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<br><br>
+<a href="#%EF%B8%8F-aurelis">Jump to details ↓</a>
+</td>
+<td align="center" width="33%">
+<h3>🔨 FORGEX</h3>
+<sub><b>Plan. Build. Refine. Verify.</b></sub><br><br>
+<img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agents-Multi-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tests-~360-brightgreen?style=flat-square"/>
+<br><br>
+<a href="#-forgex">Jump to details ↓</a>
 </td>
 </tr>
+</table>
 
+---
+
+## 📖 Dear Diary
+
+### *A private, offline-first diary that turns daily journaling into an intelligent memory system.*
+
+Write on a vintage notebook with ruled lines, paper themes and ink colors, then let an AI layer help you *remember* your own life, without ever betraying your privacy.
+
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Prime Core OS
-<p align="center">
-  <a href="https://prime-core-os.lovable.app">
-    <img src="https://img.shields.io/badge/⚡_Prime_Core_OS-Visit-FF6B6B?style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
-</p>
-<p align="center">Advanced OS Interface with cutting-edge features and performance.</p>
+#### ✍️ The Writing Experience
+- Rich-text entries on a **vintage notebook UI**
+- Paper themes, ruled lines, custom ink colors
+- Photos as compact **inline blocks**
+- **Voice notes** with playback
+- Monthly calendar with entry activity and moods
 
-</td>
-<td width="50%">
-
-### 🤖 Optimus Prime OS
-<p align="center">
-  <a href="https://optimus-prime-os-24963edc.base44.app">
-    <img src="https://img.shields.io/badge/����_Optimus_Prime_OS-Visit-FFD700?style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-✅_Completed-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Operating_System-purple?style=flat-square" />
-</p>
-<p align="center">Futuristic Operating System with AI-powered interface.</p>
+#### 🌅 Daily Life Tools
+- Mood tracking and custom categories
+- Routine task management with **streaks**
+- Daily reflections: philosopher quotes, puzzles, Quran verses with verified translations
+- Statistics dashboard: writing patterns, streaks, mood distribution
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%">
+#### 🧠 The AI Layer
+- **Semantic search** across every entry
+- Diary analysis with caching
+- A chatbot that answers **with entry citations**
+- **Anti-hallucination** guardrails
+- Explicit **user confirmation** before any edit or deletion
 
-### 👶 Kidora
-<p align="center">
-  <a href="https://kidora.lovable.app">
-    <img src="https://img.shields.io/badge/👶_Kidora-Visit-FF69B4?style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🚀_Live-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Kids_App-pink?style=flat-square" />
-</p>
-<p align="center">Kid-friendly educational application with interactive features.</p>
-
-</td>
-<td width="50%">
-
-### 💼 Digital Portfolio
-<p align="center">
-  <a href="https://awabs-digital-portfolio-088fcb24.base44.app">
-    <img src="https://img.shields.io/badge/💼_Portfolio-Visit-9B59B6?style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🚀_Live-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Portfolio-orange?style=flat-square" />
-</p>
-<p align="center">Personal portfolio showcasing my work and achievements.</p>
+#### 🔐 Privacy First
+- Private *Letters to God* are **encrypted separately**
+- Excluded from all AI, search and statistics
+- **App Lock** with PIN protection
+- Offline-first: your device is the source of truth
 
 </td>
 </tr>
 </table>
 
-</div>
+```mermaid
+flowchart LR
+    A[📱 Flutter UI<br/>Android · iOS · Web · Windows] --> B[(SQLite + Drift<br/>offline-first truth)]
+    B <-->|pull / push engine| C[☁️ Supabase<br/>Postgres · Auth · Storage · RLS]
+    B --> D{{🧠 AI Layer<br/>OpenAI · Gemini<br/>Embeddings + RAG}}
+    D -->|cited answers only| A
+    B -.->|conflict detected| E[⚖️ Conflict Resolution UI]
+    F[🔒 Letters to God<br/>encrypted] -. never indexed .-x D
+```
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/B-max12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=B-max12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-</a>
-<a href="https://github.com/B-max12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- GitHub Streak - Using working mirror -->
-<a href="https://github.com/B-max12">
-  <img src="https://github-readme-streak-stats-nine-azure.vercel.app/?user=B-max12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salmanytofficial/salmanytofficial/output/github-contribution-grid-snake-dark.svg" alt="Animation"/>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Riverpod-State-00B4AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-Drift-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
 
+---
 
+## ⬇️ AURELIS
 
-<br>
+### *"Downloads, refined."*
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+A **production-grade, local-first download manager** for Windows, macOS and Linux, built from scratch across **thirteen verified phases**.
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/B-max12">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B-max12&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph"/>
-</a>
-
-</div>
-
-<br>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-🔭 Currently working on: Operating System Interfaces & Bioinformatics Platform
-🌱 Learning: Advanced System Design, AI/ML Integration
-👯 Looking to collaborate on: Open Source Projects
-💬 Ask me about: Full Stack Development, OS Design, Web Technologies
-📫 Reach me at: awabbhammad8@gmail.com
-⚡ Fun fact: I can spend hours perfecting a single animation!
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  🖥️  React + TypeScript + Vite  (Tailwind · Radix · Zustand)  │
+│        every IPC payload validated: Zod ⇄ typed Rust errors   │
+├──────────────────────────────────────────────────────────────┤
+│  🦀  Tauri 2  →  Rust core  (tokio · reqwest)                 │
+│   ├─ segmented multi-connection transfers                     │
+│   ├─ byte-accurate cross-restart resume                       │
+│   ├─ bounded retry + backoff                                  │
+│   ├─ token-bucket throttling                                  │
+│   └─ checksum verification                                    │
+├──────────────────────────────────────────────────────────────┤
+│  🗄️  SQLite via SQLx  ·  immutable migrations                 │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+<details>
+<summary><b>⚡ Feature highlights (click to expand)</b></summary>
 
 <br>
 
-## 💡 Random Dev Quote
+| Area | What it does |
+|---|---|
+| **Queues** | Durable queues, priorities, drag ordering, daily schedule windows |
+| **Resolvers** | Analyzes direct files, HTML pages, HLS and clear DASH, with a real **format picker** |
+| **Browsers** | Chrome / Edge / Firefox integration over **authenticated native messaging** with a dedicated host binary |
+| **OS citizenship** | System notifications, live tray, real statistics |
+| **Accessibility** | Virtualized lists, full keyboard and screen-reader support |
+| **Quality gate** | One-command release gate (Vitest, `cargo test`, `clippy`) + three-OS CI producing installers |
 
-<div align="center">
+</details>
 
-<a href="https://github.com/B-max12">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</a>
+> 🛡️ **Privacy is architectural.** No account. No cloud. No telemetry.
+> Protected content (encrypted HLS, DRM DASH) is **refused, never bypassed.**
 
-</div>
-
-<br>
-
-Supported languages:
-
-
-<p align="center" style="display: inline;">
-    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/us.svg" title="English" width="24"></a>
-    <a href="https://www.transifex.com/aimeos/dashboard/all_projects/de/"><img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="German" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/fr/"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" title="French" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/es/"><img src="https://flagicons.lipis.dev/flags/4x3/es.svg" title="Spanish" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/nl/"><img src="https://flagicons.lipis.dev/flags/4x3/nl.svg" title="Dutch" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/it/"><img src="https://flagicons.lipis.dev/flags/4x3/it.svg" title="Italian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/pt/"><img src="https://flagicons.lipis.dev/flags/4x3/pt.svg" title="Portuguese" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/da/"><img src="https://flagicons.lipis.dev/flags/4x3/dk.svg" title="Danish" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/fi/"><img src="https://flagicons.lipis.dev/flags/4x3/fi.svg" title="Finnish" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/sv/"><img src="https://flagicons.lipis.dev/flags/4x3/sv.svg" title="Swedish" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/no/"><img src="https://flagicons.lipis.dev/flags/4x3/no.svg" title="Norwegian" width="24"></a>
-    &nbsp;&nbsp;&nbsp;
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/pl/"><img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" title="Polish" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/hu/"><img src="https://flagicons.lipis.dev/flags/4x3/hu.svg" title="Hungarian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/ru/"><img src="https://flagicons.lipis.dev/flags/4x3/ru.svg" title="Russian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/uk/"><img src="https://flagicons.lipis.dev/flags/4x3/ua.svg" title="Ukrainian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/hr/"><img src="https://flagicons.lipis.dev/flags/4x3/hr.svg" title="Croatian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/sl/"><img src="https://flagicons.lipis.dev/flags/4x3/sl.svg" title="Slovenian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/ro/"><img src="https://flagicons.lipis.dev/flags/4x3/ro.svg" title="Romanian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/cs/"><img src="https://flagicons.lipis.dev/flags/4x3/cz.svg" title="Czech" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/sr/"><img src="https://flagicons.lipis.dev/flags/4x3/sr.svg" title="Serbian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/sk/"><img src="https://flagicons.lipis.dev/flags/4x3/sk.svg" title="Slovak" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/et/"><img src="https://flagicons.lipis.dev/flags/4x3/et.svg" title="Estonian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/lv/"><img src="https://flagicons.lipis.dev/flags/4x3/lv.svg" title="Latvian" width="24"></a>
-    &nbsp;&nbsp;&nbsp;
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/tr/"><img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" title="Turkish" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/ar/"><img src="https://flagicons.lipis.dev/flags/4x3/sa.svg" title="Arabic" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/fa/"><img src="https://flagicons.lipis.dev/flags/4x3/ir.svg" title="Persian" width="24"></a>
-    &nbsp;&nbsp;&nbsp;
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/zh/"><img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" title="Chinese" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/ja/"><img src="https://flagicons.lipis.dev/flags/4x3/jp.svg" title="Japanese" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/id/"><img src="https://flagicons.lipis.dev/flags/4x3/id.svg" title="Indonesian" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/vi/"><img src="https://flagicons.lipis.dev/flags/4x3/vi.svg" title="Vietnamese" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/my/"><img src="https://flagicons.lipis.dev/flags/4x3/my.svg" title="Burmese" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/ko/"><img src="https://flagicons.lipis.dev/flags/4x3/kr.svg" title="Korean" width="24"></a>
+<p>
+<img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 
+---
+
+## 🔨 FORGEX
+
+### *Plan. Build. Refine. Verify.*
+
+A **CLI-first autonomous AI software engineering runtime**. Not a chatbot. Not a code generator. A *team* of specialized agents working on a real repository, with receipts.
+
+```mermaid
+flowchart TD
+    U([👤 Your request]) --> A[🏛️ Architect<br/>analyzes repo · verifies deps on<br/>PyPI / npm / crates.io / Go proxy]
+    A -->|dependency-ordered plan| B[🔧 Builder<br/>implements task by task]
+    B --> E[🧐 Expert Coder<br/>reviews every diff + impact analysis]
+    E --> V[✅ Deterministic Harness<br/>tests · build · lint]
+    V -->|pass| S[🛡️ Supervisor<br/>audits and issues verdict]
+    V -->|fail| R[🔁 Repair Loop<br/>capped by max_iterations]
+    R --> B
+    S --> D([🚀 Verified result])
+    G[(🌿 Git checkpoints<br/>every rollback reversible)] -.- B
+    G -.- R
 ```
-╔═══════════════════════════════════════════��═══════════════════════════════════╗
-║                                                                               ║
-║   💬 Got a cool project idea? Let's collaborate!                              ║
-║   📫 Email: awabbhammad8@gmail.com                                            ║
-║   🌐 Portfolio: https://awab.lovable.app                                      ║
-║   💼 LinkedIn: linkedin.com/in/awab-hammad-128aa4300                          ║
-║   ⭐ Don't forget to star repos you find interesting!                         ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+
+```console
+$ forgex build "add OAuth login to my API"
+ ◆ Architect   plan ready · 7 tasks · deps verified against PyPI
+ ◆ Builder     task 1/7 ... done
+ ◆ Expert      diff reviewed · impact: low
+ ◆ Harness     pytest ✔  ruff ✔  mypy ✔
+ ◆ Supervisor  verdict: APPROVED
 ```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧩 Engineering Guarantees
+- **Permission-gated** tools
+- **Git checkpoints**, every rollback reversible
+- Repair loop is **never infinite**
+- Interrupts are safe, runs are **resumable**
+- Optional **hardened Docker sandbox**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔌 Model Layer
+- OpenAI-compatible, Groq and local servers
+- Capability-aware routing, retries, fallback
+- **Multi-model ensemble review**
+- Pydantic v2 structured outputs everywhere
+- JSON / plain modes on every command
+
+</td>
+</tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/asyncio-Concurrent-FFD43B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typer-Rich-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytest-~360_tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+</p>
+
+---
+
+## ⚔️ Side by Side
+
+| | 📖 Dear Diary | ⬇️ AURELIS | 🔨 FORGEX |
+|---|---|---|---|
+| **Domain** | Personal memory + AI | Desktop networking | AI engineering |
+| **Core language** | Dart / Flutter | Rust + TypeScript | Python |
+| **Data layer** | SQLite + Supabase | SQLite (SQLx) | SQLite + JSON state |
+| **Philosophy** | *Remember, privately* | *Local-first, no telemetry* | *Never trust. Verify.* |
+| **Platforms** | Android · iOS · Web · Windows | Windows · macOS · Linux | Any CLI environment |
+| **Trust model** | Encrypted + AI-excluded secrets | Refuses DRM, never bypasses | Permission-gated + checkpointed |
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,rust,tauri,react,ts,py,cpp,qt&theme=dark"/>
+<br>
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,supabase,tailwind,vite,docker,git,github,linux,vscode&theme=dark"/>
 
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  
-### 💖 Thanks for visiting my profile!
 
-<!-- Animated Footer -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=B-max12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=B-max12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-<!-- Snake Animation (Works with GitHub Actions) -->
-<!-- To enable: Create .github/workflows/snake.yml in your profile repo -->
+<img src="https://github-readme-streak-stats-nine-azure.vercel.app/?user=B-max12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 
-<!-- Final wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=B-max12&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+🔭 building:      Dear Diary · AURELIS · FORGEX
+🌱 learning:      multi-agent systems, Rust async internals, RAG that doesn't hallucinate
+👯 collaborating: open source, AI tooling, local-first software
+💬 ask me about:  Flutter, Rust/Tauri, agent runtimes, offline-first sync
+⚡ fun fact:      I'll happily spend hours perfecting one animation
+```
+
+---
+
+<div align="center">
+
+### 💬 Got a wild idea? Let's build it.
+
+<a href="mailto:awabbhammad8@gmail.com"><img src="https://img.shields.io/badge/📫_awabbhammad8@gmail.com-D14836?style=for-the-badge"/></a>
+<a href="https://awab.lovable.app"><img src="https://img.shields.io/badge/🌐_awab.lovable.app-FF5722?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/awab-hammad-128aa4300"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge"/></a>
+
+<br><br>
+
+⭐ *If any of these projects impressed you, drop a star. It fuels the next build.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=120&section=footer)
+
+</div>
